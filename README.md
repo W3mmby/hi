@@ -1,8 +1,5 @@
    
-img {
-    width: 300px;
-    height: auto;
-    border-radius: 8px;
+
 }
 </style>
 </head>
