@@ -1,9 +1,4 @@
-!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <title>Hiển thị hình ảnh</title>
-    <style>
+
         img {
             width: 300px; /* Chỉnh chiều rộng ảnh */
             height: auto; /* Tự động điều chỉnh chiều cao */
