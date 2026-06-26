@@ -1,7 +1,7 @@
    
 
 
-</style>
+
 </head>
 <body>
     <h2>Tax duo ^-^</h2>
