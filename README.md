@@ -1,8 +1,5 @@
 
-        img {
-            width: 300px; /* Chỉnh chiều rộng ảnh */
-            height: auto; /* Tự động điều chỉnh chiều cao */
-            border-radius: 8px; /* Bo góc ảnh cho đẹp */
+
         }
     </style>
 </head>
