@@ -1,4 +1,4 @@
-    <style>
+   
 img {
     width: 300px;
     height: auto;
