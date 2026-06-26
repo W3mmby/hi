@@ -1,9 +1,10 @@
-    img {
-            width: 300px; /* Chỉnh chiều rộng ảnh */
-            height: auto; /* Tự động điều chỉnh chiều cao */
-            border-radius: 8px; /* Bo góc ảnh cho đẹp */
-        }
-    </style>
+    <style>
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+</style>
 </head>
 <body>
     <h2>Hình ảnh của bạn:</h2>
